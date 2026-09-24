@@ -38,6 +38,6 @@ Tools I built because I needed them.
 ## 🧰 Technical Toolkit
 
 - **Languages:** Python, Java
-- **ML / DL:** PyTorch, Hugging Face Transformers, LLM fine-tuning
+- **ML / DL:** PyTorch, Hugging Face Transformers, LLM fine-tuning, TensorFlow
 - **Focus areas:** NLP, Multimodal Learning, Optimization, Fairness in ML, Computer Vision
 - **Tools:** Jupyter, Google Colab, Kaggle, Git
