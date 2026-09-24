@@ -23,7 +23,7 @@ I'm passionate about machine learning, Computer Vision, NLP and decision-making 
 
 ## 📱 App Development
 
-- [Dark Enigma](https://apps.apple.com/us/app/dark-enigma/id6789902626) *(iOS, built with a team of collaborators)*: A mystery game where you solve dark lateral-thinking cases by questioning an **AI narrator** that only answers *Yes*, *No* or *Irrelevant*. Features single player, local pass-and-play and online multiplayer with room codes, badges, leaderboards, and English/Italian support.
+- [Dark Enigma](https://apps.apple.com/us/app/dark-enigma/id6789902626) *(iOS, built with a team of collaborators)*: A mystery game where you solve dark lateral-thinking cases by questioning an **AI narrator**.
 
 ---
 
